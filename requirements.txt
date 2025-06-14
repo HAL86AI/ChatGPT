@@ -1,0 +1,7 @@
+google-api-python-client
+google-auth
+google-auth-oauthlib
+pdf2image
+pillow
+pytesseract
+pdfplumber
